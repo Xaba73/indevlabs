@@ -1,0 +1,18 @@
+.contactsWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: 5vh;
+  font-family: 'Open Sans', sans-serif;
+}
+.contact {
+  display: flex;
+  font-size: 1.2em;
+  margin-right: 30px;
+}
+
+.link {
+  text-decoration: none;
+  color: #1e1e1e;
+}

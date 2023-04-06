@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20vh;
+}
+
+.answer {
+  margin-top: 20px;
+  font-size: 1.3em;
+}

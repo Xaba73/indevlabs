@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.joke {
+  font-size: 0.9em;
+  font-family: 'Open Sans', sans-serif;
+}
+.company {
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
