@@ -5,8 +5,7 @@
 И далее высчитывается пропущенное число в последовательности.
 
 
-# Ссылка на файл с кодом решения задачи, где я описал два алгоритма для ее решения.  
-[Answer](https://github.com/Xaba73/indevlabs/blob/main/src/components/FormFindNumber/FormFindNumberHelpers.js "Answer")
+# Ссылка на файл с кодом решения задачи, где я описал два алгоритма для ее решения.  [Задача](https://github.com/Xaba73/indevlabs/blob/main/src/components/FormFindNumber/FormFindNumberHelpers.js "Задача")
 
 Для создания приложения я использовал React и MUI - которые релевантны для вашей вакансии.
 
